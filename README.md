@@ -1,4 +1,4 @@
-# Scoop Bucket Template
+# Pynappo's `scoop` bucket
 
 [![Tests](https://github.com/pynappo/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/pynappo/scoop-bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/pynappo/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/pynappo/scoop-bucket/actions/workflows/excavator.yml)
 
