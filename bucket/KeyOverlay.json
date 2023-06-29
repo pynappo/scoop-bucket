@@ -3,7 +3,7 @@
     "description": "A simple key overlay for osu! streaming",
     "homepage": "https://github.com/Blondazz/KeyOverlay",
     "license": "GPL-3.0",
-    "url": "https://github.com/Blondazz/KeyOverlay/releases/download/v1.0.5/KeyOverlay-windows.zip",
+    "url": "https://github.com/Blondazz/KeyOverlay/releases/download/v1.0.5/KeyOverlay-windows-latest.zip",
     "hash": "8df3daa7f7a1368ef810c2a0cb6e8fb0eedaa4abcdafd4cb962c44295649065f",
     "checkver": "github",
     "persist": "config.txt",
@@ -14,6 +14,6 @@
         ]
     ],
     "autoupdate": {
-        "url": "https://github.com/Blondazz/KeyOverlay/releases/download/v$version/KeyOverlay-windows.zip"
+        "url": "https://github.com/Blondazz/KeyOverlay/releases/download/v$version/KeyOverlay-windows-latest.zip"
     }
 }

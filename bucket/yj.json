@@ -1,0 +1,12 @@
+{
+    "version": "5.1.0",
+    "description": "A simple key overlay for osu! streaming",
+    "homepage": "https://github.com/sclevine/yj",
+    "license": "Apache-2.0",
+    "url": "https://github.com/sclevine/yj/releases/download/v5.1.0/yj.exe",
+    "checkver": "github",
+    "bin": "yj.exe",
+    "autoupdate": {
+        "url": "https://github.com/sclevine/yj/releases/download/v$version/yj.exe"
+    }
+}
