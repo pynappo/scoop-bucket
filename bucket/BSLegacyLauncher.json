@@ -7,6 +7,7 @@
     "hash": "8cc915d428517569151f05b794f423dcf1e33a3dd99bfd124c521d69a1d10a0f",
     "extract_dir": "BSLegacyLauncher",
     "checkver": "github",
+    "bin": "Beat Saber Legacy Launcher.exe",
     "shortcuts": [
         [
             "Beat Saber Legacy Launcher.exe",
