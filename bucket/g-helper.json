@@ -1,5 +1,5 @@
 {
-    "version": "0.126",
+    "version": "0.129",
     "description": "Lightweight Armoury Crate alternative for Asus laptops.",
     "homepage": "https://seerge.github.io/g-helper",
     "license": {
@@ -9,8 +9,8 @@
     "checkver": {
         "github": "https://github.com/seerge/g-helper"
     },
-    "hash": "3105e39511f6b762851c0f5ea3a6c453b66be56a0be1f65d096e50841afc4227",
-    "url": "https://github.com/seerge/g-helper/releases/download/v0.126/GHelper.zip",
+    "hash": "6b4735eb363d9876ff68d1065bb7cab2361bb13f9069d6be0471178481864fc7",
+    "url": "https://github.com/seerge/g-helper/releases/download/v0.129/GHelper.zip",
     "autoupdate": {
         "url": "https://github.com/seerge/g-helper/releases/download/v$version/GHelper.zip"
     },
